@@ -1,5 +1,4 @@
 """
-Oria Segal, 209338193
 Exercise 1, question 4
 In this program there are four functions that are getting a binary word and can move N bits left or right
 by putting '0' or '1' instead.

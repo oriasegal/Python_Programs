@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 3, question 3
 This program is printing out the number that is given in reverse by using a recursive function.
 """

@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 2, question 2
 This program is getting a number and in two ways can calculate the sum of it's digits.
 """

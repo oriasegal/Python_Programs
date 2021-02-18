@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 2, question 5
 This program is calculating the sum of the equation i/(i+1) for every i in the range i-n when n is given
 and prints out the sum of each i until it get to n and print the final sum of the equation.

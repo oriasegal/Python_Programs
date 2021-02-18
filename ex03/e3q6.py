@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 3, question 6
 This program is calculating the proximity value of pi by using a given number and the sum of the pi equation.
 The value is calculated using a recursive function.

@@ -1,5 +1,4 @@
 """
-Oria Segal, 209338193
 Exercise 1, question 6
 This program is counting how many of each kind of data we enter in the list- how many lists, tuples, ints etc.
 """

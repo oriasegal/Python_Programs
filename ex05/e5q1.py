@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 5, question 1
 This program is using generators to get all the even numbers between N1 and N2 and prints N3 in a row.
 """

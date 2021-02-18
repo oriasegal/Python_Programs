@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 2, question 4
 This program is checking if the number that was given is a palindrome or not and prints out the matching message.
 """

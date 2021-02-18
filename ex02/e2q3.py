@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 2, question 3
 This program is printing out the number that is given in reverse in two ways.
 """
@@ -28,21 +27,3 @@ def f():
     print("The sum calculated by the first function is: " + str(reverse1))
     print("and the sum calculated by the second function is: " + str(reverse2))
 
-
-def solution(A):
-    i = 1
-    while(1):
-        if i not in A:
-            return i
-        i = i + 1
-
-#print(solution([1,2,3]))
-
-import pandas as pd
-
-
-def process_data():
-    # Do not alter this line.
-    biopics = pd.read_csv("biopics.csv", encoding='latin-1')
-    biopics.columns
-    return biopics.reset_index(drop=True)

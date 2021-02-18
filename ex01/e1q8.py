@@ -1,7 +1,5 @@
 """
-Oria Segal, 209338193
 Exercise 1, question 8
-This program is
 """
 """import random
 

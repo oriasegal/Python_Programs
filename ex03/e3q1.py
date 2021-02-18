@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 3, question 1
 This program is calculating the penta numbers in the range of two given numbers by using two recursive functions.
 """

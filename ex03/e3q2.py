@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 3, question 2
 This program is getting a number and in a recursive way can calculate the sum of it's digits.
 """

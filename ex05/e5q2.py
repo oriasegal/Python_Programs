@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 5, question 2
 This program is using generators to execute the 'napa' function and using it to print a list of all the prime
 dividers of the inserted N.

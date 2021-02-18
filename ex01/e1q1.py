@@ -1,5 +1,4 @@
 """
-Oria Segal, 209338193
 Exercise 1, question 1
 This program is checking if three numbers are correct triangle sides length or not by comparing them to each other.
 """

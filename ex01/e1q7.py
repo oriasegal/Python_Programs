@@ -1,5 +1,5 @@
 """
-Exercise 1, question 8
+Exercise 1, question 7
 This program is getting a random text and reads is while counting how many times each word is mentioned in it.
 Prints out the results in a dictionary form.
 """

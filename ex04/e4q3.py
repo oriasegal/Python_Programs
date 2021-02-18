@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 4, question 3
 This program is getting a list of lists from the user and by using recursive functions can sort them or print
 them in reverse.

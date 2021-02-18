@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 2, question 9
 This is a program that calls all the other functions that were builds in the last 8 files
 according to what the user requests.

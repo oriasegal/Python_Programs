@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 4, question 4
 This program is creating an N lines long poem by using two recursive functions.
 """

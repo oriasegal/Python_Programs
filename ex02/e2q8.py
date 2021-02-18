@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 2, question 8
 This program is combining three dictionaries into one.
 """

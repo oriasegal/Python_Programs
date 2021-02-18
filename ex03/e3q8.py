@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 3, question 8
 This program is combining three dictionaries into one by using a 'tail recursion' styled function.
 """

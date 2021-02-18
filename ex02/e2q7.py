@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 2, question 7
 This program is making a dictionary of twin prime numbers according to a given number.
 """

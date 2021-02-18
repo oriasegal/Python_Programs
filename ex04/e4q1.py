@@ -1,5 +1,4 @@
 """
-Oria Segal 209338193
 Exercise 4, question 1
 This program is using a few recursive functions to go over the two given lists of grades and teachers and printing
 the name of the teacher with a list with all their students' ID numbers, the average and standard deviation.
